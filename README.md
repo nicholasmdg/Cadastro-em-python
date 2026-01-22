@@ -1,23 +1,22 @@
-Nicholas-sivla
 
-Jogo Pedra, Papel e Tesoura
+Nicholas-Silva
+Sistema de Cadastro (Lista, Adicionar, Remover)
 
 ```md
-# Jogo Pedra, Papel e Tesoura em Python
+# Sistema de Cadastro em Python
 
-Projeto desenvolvido para praticar lógica de programação, condicionais e uso da biblioteca random.
+Sistema simples de cadastro desenvolvido para praticar listas, estruturas condicionais e laços de repetição.
 
 ## Funcionalidades
-- Escolha do jogador
-- Escolha aleatória do computador
-- Verificação do vencedor
-- Exibição do resultado da partida
+- Listar cadastros
+- Adicionar novos cadastros
+- Remover cadastros existentes
 
 ## Tecnologias utilizadas
 - Python
 
 ## Como executar o projeto
-1. Certifique-se de ter o Python instalado
-2. Execute:
+1. Tenha o Python instalado
+2. Execute o arquivo:
 ```bash
 python main.py
